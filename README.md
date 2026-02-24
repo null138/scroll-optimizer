@@ -1,7 +1,8 @@
 # [EN]
+***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799) | [Discord Server](https://discord.gg/SHW82GMrV4)
 
 # Scroll Optimizer
-
+<img src="example.png" alt="SnowFX" width="300">
 Scroll Optimizer is a Windows tool designed to make the bhopping mechanic in certain shooting games smoother and more consistent by throttling and queuing mouse scroll inputs.
 Instead of sending rapid or excessive inputs, the tool processes scroll events at a controlled interval, providing improved timing consistency and smoother execution.
 
@@ -49,10 +50,11 @@ This project is released under the MIT License (Author Credit Required).
 
 # 
 
-# [RU]
+# [RU/РУССКИЙ]
+***Автор***: **Madness (null138)** | [Профиль Steam](http://steamcommunity.com/profiles/76561198098349799) | [Discord Сервер](https://discord.gg/SHW82GMrV4)
 
 # Scroll Optimizer
-
+<img src="example.png" alt="SnowFX" width="300">
 Scroll Optimizer — это инструмент для Windows, предназначенный для более плавного и стабильного выполнения механики bhop в некоторых шутерах за счёт ограничения и очередности обработки прокрутки колеса мыши.
 Вместо отправки слишком частых или избыточных сигналов инструмент обрабатывает события прокрутки с контролируемым интервалом, обеспечивая более стабильный тайминг и плавное выполнение.
 
