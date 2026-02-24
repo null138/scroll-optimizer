@@ -16,6 +16,7 @@ This tool does NOT:
 - Increase the number of inputs
 - Automatically generate scroll inputs without user input
 - Spam or simulate additional actions
+
 It only delays and regulates existing user input.
 
 # How to Use
@@ -68,6 +69,7 @@ Scroll Optimizer — это инструмент для Windows, предназ�
 - Увеличивает общее количество нажаний  
 - Автоматически генерирует прокрутку без участия пользователя
 - Спамит или имитирует дополнительные действия
+
 Он только задерживает и регулирует существующий ввод пользователя.
 
 # Как использовать
