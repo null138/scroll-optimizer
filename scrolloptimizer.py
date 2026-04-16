@@ -105,7 +105,7 @@ interval_label.pack()
 
 slider_length = 220
 slider = tk.Scale(
-	frame, from_=15, to=80, orient="horizontal",
+	frame, from_=1, to=80, orient="horizontal",
 	command=lambda val: update_interval(val),
 	bg="#414141", fg="white",
 	troughcolor="#555555", highlightthickness=0,
@@ -116,7 +116,7 @@ slider.set(tick_interval_ms)
 slider.pack(pady=5)
 
 marker_canvas = tk.Canvas(frame, width=slider_length, height=12, bg="#414141", highlightthickness=0)
-marker_canvas.place(x=20, y=79)
+marker_canvas.place(x=46, y=79)
 marker_pos = int((30 - 15) / (80 - 15) * (slider_length - 30) + 16)
 marker_canvas.create_line(marker_pos, 0, marker_pos, 12, fill="#E25822", width=2)
 
