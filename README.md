@@ -30,6 +30,8 @@ It only delays and regulates existing user input.
 - Default Settings
   - The default 30ms interval works well for most users.
   - An orange visual marker shows the default 30ms value.
+  
+**⚠️Note: Lower input delays may not work properly if your mouse cannot physically achieve them (commonly around 15 ms minimum on modern devices).**
 
 # Ethical & Usage Notice
 From a functional perspective, this tool does not create artificial input or automate gameplay behavior. It simply delays existing input by a specified interval.
@@ -83,6 +85,8 @@ Scroll Optimizer — это инструмент для Windows, предназ�
 - Настройки по умолчанию
   - Интервал по умолчанию 30 мс подходит большинству пользователей.
   - Оранжевый визуальный маркер указывает значение по умолчанию 30 мс.
+
+**⚠️Примечание: Более низкие задержки ввода могут работать некорректно, если ваша мышь физически не способна их достичь (обычно минимальное значение составляет около 15 мс на современных устройствах).**
 
 # Этическое и правовое уведомление
 С функциональной точки зрения данный инструмент не создаёт искусственный ввод и не автоматизирует игровой процесс. Он лишь задерживает существующий ввод на заданный интервал.
